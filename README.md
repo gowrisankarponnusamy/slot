@@ -129,4 +129,4 @@ Execute the program
 ![HTML VALIDATOR](http://gowrisankar.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT
-The program for creating slot time table is completed successfully.
+The program for creating slot time table is completed successfully
