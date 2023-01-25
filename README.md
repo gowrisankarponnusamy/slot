@@ -123,7 +123,7 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://gowrisankar.student.saveetha.in:8000/static/images/Out(2).png?raw=true)
+![OUTPUT](http://gowrisankar.student.saveetha.in:8000/static/images/Out.png?raw=true)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://gowrisankar.student.saveetha.in:8000/static/images/valid.png?raw=true)
